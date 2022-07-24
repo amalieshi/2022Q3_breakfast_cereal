@@ -17,8 +17,8 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 For this project, I was interestested in using the 80 Cereals database to better understand:
 
-1. How does the different nutrition contents of the eighty types of breakfast cereals distributed?
-2. How does the consumer report ratings affected by the different nutrition contents? How is the highest rated product nutritional contents look like compared to the lowest rated nutritional products? What does the consumer report ratings tell us considering the nutritional contents of the cereal? Do consumers prefer healthy or tasty but unhealthy cereal based on the consumer report ratings?
+1. How are the different nutrition contents of the eighty types of breakfast cereals distributed?
+2. How are the consumer report ratings affected by the different nutrition contents? How is the highest rated product nutritional contents look like compared to the lowest rated nutritional products? What does the consumer report ratings tell us considering the nutritional contents of the cereal? Do consumers prefer healthy or tasty but unhealthy cereal based on the consumer report ratings?
 3. Can we use the database to create the model that would maximize the consumer report rating? What does that model look like and how accurate the model is? 
 4. Does the brand name(i.e. which manufacturer makes the product) create bias in the consumer report rating? 
 5. HotNCold and Shelf Location Exploration.
