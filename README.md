@@ -31,7 +31,7 @@ There is a "cereal.csv" file downloaded from the [80 Cereals dataset](https://ww
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
+The main findings of the code can be found at the post available [here](https://medium.com/@huishi1885/a-cereal-ous-quantitative-analysis-on-breakfast-cereal-f06267c5cd4).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
