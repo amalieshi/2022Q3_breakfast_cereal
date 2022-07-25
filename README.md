@@ -21,7 +21,7 @@ For this project, I was interestested in using the 80 Cereals database to better
 2. How are the consumer report ratings affected by the different nutrition contents? How is the highest rated product nutritional contents look like compared to the lowest rated nutritional products? What does the consumer report ratings tell us considering the nutritional contents of the cereal? Do consumers prefer healthy or tasty but unhealthy cereal based on the consumer report ratings?
 3. Can we use the database to create the model that would maximize the consumer report rating? What does that model look like and how accurate the model is? 
 4. the different Manufacturers of the Cereals and their average Nutritional Content Portfolios
-5. HotNCold and Shelf Location Exploration.
+5. the nutrition distribution of cereals on each shelf and if the cereal is to be served hot or cold
 
 ## File Descriptions <a name="files"></a>
 
