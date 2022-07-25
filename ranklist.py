@@ -11,7 +11,6 @@ def ranklist(df, column_name):
         Output:
         plt bar plot of the column variable in descending order
     """
-
     df = df.sort_values([column_name], ascending=False).reset_index(drop=True)
     sns.set(font_scale=1)
     plt.figure(figsize=(20, 20))
@@ -20,5 +19,3 @@ def ranklist(df, column_name):
     plt.xlabel(column_name, fontsize=21)
     plt.title(column_name, fontsize=30)
     plt.show()
-
-print(ranklist.__doc__)
