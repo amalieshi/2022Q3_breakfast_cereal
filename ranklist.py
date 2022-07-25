@@ -2,7 +2,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 
-def ranklist(df, column_name)->[str,str]:
+def ranklist(df, column_name):
     """
         This function provides the barplot for the each series in a column and plot it in bar plot
 
@@ -22,11 +22,10 @@ def ranklist(df, column_name)->[str,str]:
     plt.xlabel(column_name, fontsize=21)
     plt.title(column_name, fontsize=30)
     plt.show()
-    string1 = ", ".join(str(i) for i in list(df['name'].head()))
-    string1 = ['Top: '].append(string1)
+    string1 = 'Top: '.append(", ".join(str(i) for i in list(df['name'].head())))
     return string1
-    string2 = ", ".join(str(i) for i in list(df['name'].tail()))
+    """string2 = ", ".join(str(i) for i in list(df['name'].tail()))
     return string2
-
+"""
 
 print(ranklist.__doc__)
